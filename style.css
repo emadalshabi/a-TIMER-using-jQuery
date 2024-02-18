@@ -1,0 +1,16 @@
+body {
+background-color: aquamarine;
+}
+
+#timer {
+    text-align: center;
+    font-size: 100px;
+    margin-top: 100px;
+  }
+  
+  .controls {
+    margin-bottom: 20px;
+  }
+  
+  
+  
